@@ -3,4 +3,8 @@ Ejercicios usando HTML CSS y JavaScript
 
 ### Tabla de contenido
 
-- [Primera pagina web](https://urielmendozag.github.io/Front-end/src/1/index.html) 
+### HTML
+  - [Primera pagina web](https://urielmendozag.github.io/Front-end/src/1/index.html) 
+  - [Estructura Basica de HTML](https://urielmendozag.github.io/Front-end/src/2/index.html)
+  - [Tablas](https://urielmendozag.github.io/Front-end/src/3/index.html)
+  - [Formularios](https://urielmendozag.github.io/Front-end/src/4/index.html)
