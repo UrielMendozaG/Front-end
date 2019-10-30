@@ -1,0 +1,9 @@
+#button, #button2{
+    width: 80%;
+    height: 20%;
+    font-size: 4em;
+}
+
+body{
+    text-align: center;
+}
